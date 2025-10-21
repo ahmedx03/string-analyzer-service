@@ -37,3 +37,7 @@ djangorestframework==3.14.0
 404 Not Found - String does not exist in the system
 409 Conflict - String already exists
 422 Unprocessable Entity - Invalid data type for value
+
+## Deployment
+
+Deployed on Railway: `https://web-production-632a4.up.railway.app`
